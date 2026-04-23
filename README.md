@@ -16,5 +16,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/https://github.com/oskdev-fivem/oskdev-fivem/gitsnake.svg" />
+  <img src="https://raw.githubusercontent.com/oskdev-fivem/oskdev-fivem/output/github-contribution-gitsnake.svg" />
 </p>
