@@ -15,3 +15,6 @@
 - 🐛 GitHub Issues : *Ask me anything*  
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
