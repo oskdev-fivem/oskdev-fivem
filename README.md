@@ -1,4 +1,4 @@
-<h1 align="center">vye-fivem</h1>
+<h1 align="center">oskdev-fivem</h1>
 
 <p align="center">
   <b>Building GLine 🚀</b>
