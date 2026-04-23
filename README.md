@@ -16,5 +16,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/https://github.com/oskdev-fivem/oskdev-fivem/gitsnake.svg" />
 </p>
