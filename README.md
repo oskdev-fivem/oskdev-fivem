@@ -1,9 +1,3 @@
-<h1 align="center">oskdev-fivem</h1>
-
-<p align="center">
-  <b>Building GLine 🚀</b>
-</p>
-
 ## ⚡ Quick Stack
 
 <p align="center">
