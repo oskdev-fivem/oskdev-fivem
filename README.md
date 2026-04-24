@@ -7,7 +7,7 @@
 ## 🚀 Projects
 
 - **GLine** : En plein développement *(FiveM Ecosystem)*  
-- **Soon ...** : Legacy / Side project  
+- **Soon ...** :  
 
 ## 📡 Connect
 
