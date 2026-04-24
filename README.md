@@ -7,11 +7,11 @@
 ## 🚀 Projects
 
 - **GLine** : En plein développement *(FiveM Ecosystem)*  
-- **Soon...** : Legacy / Side project  
+- **Soon ...** : Legacy / Side project  
 
 ## 📡 Connect
 
-- 💬 Discord : `osk`  
+- 💬 Discord : `7z.ws`  
 - 🐛 GitHub Issues : *Ask me anything*  
 
 
