@@ -6,8 +6,7 @@
 
 ## 🚀 Projects
 
-- **GLine** : Currently under development *(FiveM Ecosystem)*  
-- **Soon ...** :  
+- **GLineFA and WL** : Currently under development *(FiveM Ecosystem)*  
 
 ## 📡 Connect
 
