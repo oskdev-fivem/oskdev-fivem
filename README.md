@@ -15,10 +15,6 @@ I spearhead bespoke digital solutions dedicated to supporting and driving the gr
 <br />
 <img src="https://img.shields.io/badge/Founder_%26_CEO-162144?style=for-the-badge" alt="" />
 <img src="https://img.shields.io/badge/Developer-162144?style=for-the-badge" alt="" />
-<br />
-<img src="https://img.shields.io/badge/Entrepreneur-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Auto_Entrepreneur-162144?style=for-the-badge" alt="" />
-<img src="https://img.shields.io/badge/Mapper_FiveM-162144?style=for-the-badge" alt="" />
 </div>
 
 <br />
