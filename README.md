@@ -6,7 +6,7 @@
 
 ## À propos
 
-I spearhead bespoke digital solutions dedicated to supporting and driving the growth of my companies.
+Je pilote la conception de solutions digitals sur mesure, dédiées à soutenir et à stimuler la croissance de mes entreprises.
 
 ## Domaines d'expertise
 
